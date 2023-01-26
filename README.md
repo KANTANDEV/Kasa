@@ -4,6 +4,21 @@ Formation Projet N°11 Formation openclassrooms Développeur d'application - Jav
 
 ![Capture_d_écran_2023-01-14_191346-removebg-preview](https://user-images.githubusercontent.com/94462048/212488823-c319c0af-c05f-43a6-bd2b-7c874630940f.png)
 
+## Maquettes
+
+#### Desktop
+![home](https://user-images.githubusercontent.com/94462048/214882406-5181de2b-7200-438c-8cc0-b583b1d9bc8f.png)
+![card](https://user-images.githubusercontent.com/94462048/214882446-96d7da5e-cc84-46f6-9e0d-47d2d7a11804.png)
+![404](https://user-images.githubusercontent.com/94462048/214882486-4c45a773-be6e-4a65-8a66-401ebd7ca7d4.png)
+![About](https://user-images.githubusercontent.com/94462048/214882510-76089491-9aa6-492d-b1ca-6df42118834f.png)
+![About2](https://user-images.githubusercontent.com/94462048/214882536-852b0e39-d563-4db3-8e1c-dda2e993af23.png)
+
+#### Responsive
+![HomeR](https://user-images.githubusercontent.com/94462048/214882637-22511a84-bd27-4f39-877a-a6a74c783d17.png)
+![CardR](https://user-images.githubusercontent.com/94462048/214882653-590427ef-898b-4dd7-b582-89d42d8eac51.png)
+![404R](https://user-images.githubusercontent.com/94462048/214882666-920f7f52-8cb0-4f3d-bb09-3adc7a37d262.png)
+![aboutR](https://user-images.githubusercontent.com/94462048/214882685-8f4c5408-206f-4f69-b910-d0be3252c813.png)
+
 
 ## Scénario 
 
